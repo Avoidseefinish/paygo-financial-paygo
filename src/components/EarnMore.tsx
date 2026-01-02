@@ -51,7 +51,7 @@ const EarnMore = ({ onBack }: { onBack: () => void }) => {
           <h2 className="text-3xl font-bold text-purple-600 mb-6">Paygo Pro</h2>
           
           <p className="text-gray-800 text-lg mb-4">
-            Take your earnings to the next level with BluePay Pro.
+            Take your earnings to the next level with Paygo Pro.
           </p>
           
           <p className="text-gray-600 mb-4">
