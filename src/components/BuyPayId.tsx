@@ -166,7 +166,7 @@ const BuyPayId = ({ onBack }: { onBack: () => void }) => {
             <div className="px-6 space-y-4">
               {/* Email Section */}
               <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-                <p className="text-blue-700 font-medium">Email: financial1240@gmail.com</p>
+                <p className="text-blue-700 font-medium">Email: onlineincomingacademy15@gmail.com</p>
               </div>
 
               {/* Payment Details Card */}
