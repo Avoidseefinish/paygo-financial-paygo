@@ -57,7 +57,7 @@ const Dashboard = () => {
     { 
       icon: <div className="w-6 h-6 bg-blue-400 rounded flex items-center justify-center text-white text-sm">📺</div>, 
       label: "Watch",
-      action: () => window.open('https://t.me/bluepay247', '_blank')
+      action: () => window.open('https://wa.me/qr/KATIIW3O7B3AL1', '_blank')
     },
     { 
       icon: <div className="w-6 h-6 bg-green-500 rounded flex items-center justify-center text-white text-sm">📊</div>, 
