@@ -3,8 +3,8 @@ import { Gift, X } from 'lucide-react';
 
 const ReferEarnPopup = ({ onClose }: { onClose: () => void }) => {
   const handleShareOnWhatsApp = () => {
-    const referralLink = 'https://paygo-financial-paygo.vercel.app/';
-    const message = `Join BLUEPAY LTD and earn money! Use my referral link: ${referralLink}`;
+    const referralLink = 'https://paygo-officialuser.vercel.app/';
+    const message = `Join Paygo LTD and earn money! Use my referral link: ${referralLink}`;
     const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
