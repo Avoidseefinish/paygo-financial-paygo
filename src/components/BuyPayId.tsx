@@ -196,7 +196,7 @@ const BuyPayId = ({ onBack }: { onBack: () => void }) => {
                 <div className="flex items-center justify-between p-4 border-b border-gray-100">
                   <span className="text-gray-700 font-medium">Account Number</span>
                   <div className="flex items-center space-x-3">
-                    <span className="text-lg font-bold text-gray-900">9160886263</span>
+                    <span className="text-lg font-bold text-gray-900">91608862612</span>
                     <Button 
                       onClick={() => handleCopy('9160886263')} 
                       className="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 text-sm rounded-md flex items-center space-x-1"
