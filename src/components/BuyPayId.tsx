@@ -210,7 +210,7 @@ const BuyPayId = ({ onBack }: { onBack: () => void }) => {
                 {/* Account Name */}
                 <div className="flex items-center justify-between p-4">
                   <span className="text-gray-700 font-medium">Account Name</span>
-                  <span className="text-lg font-bold text-gray-900">YENKAT NANSHEP/span>
+                  <span className="text-lg font-bold text-gray-900">YENKAT papagdfHEP/span>
                 </div>
               </div>
 
